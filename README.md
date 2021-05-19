@@ -10,6 +10,7 @@
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1620922440559.png" width="400px" />
 
+<!--
 - 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
 - Trabalhando na *@kabum* como desenvolvedora Full Stack. 
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
@@ -21,6 +22,7 @@
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para contato@strongreen.com.
 - 📝 Veja meu <a href="#" target="_blank">Currículo</a> para mais informações.
+-->
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cassio-Faleiro&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Cassio-Faleiro" />

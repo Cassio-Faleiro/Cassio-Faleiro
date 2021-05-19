@@ -3,8 +3,7 @@
 <h1 align="center"> Seja bem vindo! </h1>
 
 <hr />
-
-
+ <p> O perfil ainda esta em desenvolvimento</p>
 <hr />
 
 **Meus interesses pessoais:**

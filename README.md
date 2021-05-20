@@ -13,7 +13,6 @@
   - Assistir filmes e séries de quase todos os gêneros (maior preferência pela DC);
   - Assitir jogos de futebol;
   - Stand-up comedy;
-  - Viajar;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para cassio.faleiro@icloud.com
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1KHQ6QfhoDQtXzGXV1aE1vuJ2ccitzzqg/view?usp=sharing" target="_blank">Currículo</a> para mais informações.

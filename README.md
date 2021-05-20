@@ -10,7 +10,7 @@
 - 💼 Trabalhando na *Alliance One Internacional* como **técnico em informática**. 
 - 😍 Meus interesses na programção é no front-end.
 - 👾 Principais hobbies são: 
-  - Assistir filmes e séries de quase todos os gêneros (maior preferência pela DC);
+  - Assistir filmes e séries de quase todos os gêneros (preferência pela DC);
   - Assitir jogos de futebol;
   - Stand-up comedy;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
